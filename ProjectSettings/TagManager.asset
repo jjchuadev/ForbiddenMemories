@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Environment
+  - Weapon
+  - Enemy
+  - backwall
+  - ground
+  - PowerUp
+  - Legs
+  - Platform
+  - Wall
+  - MemoryChip
+  - DoorTrigger
+  - TextBox
+  - Bullet
+  - Story
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1280964417
+    locked: 0
+  - name: player
+    uniqueID: 400594019
+    locked: 0
+  - name: foreground
+    uniqueID: 684597847
+    locked: 0
